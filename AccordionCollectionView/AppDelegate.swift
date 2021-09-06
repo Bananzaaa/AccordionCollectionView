@@ -5,12 +5,12 @@
 //  Created by Ацкий Станислав on 05.09.2021.
 //
 
+// Source: https://www.youtube.com/watch?v=dPYi4c2bPpw
+
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
